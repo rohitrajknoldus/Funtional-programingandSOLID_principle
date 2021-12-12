@@ -1,0 +1,1 @@
+# Funtional-programingandSOLID_principle
